@@ -24,3 +24,12 @@ Second-year Quantitative Finance and Computer Science student at [Stevens Instit
 - **[WSJ Data Aggregate](https://github.com/markm101/WSJ-Aggregator)** · Python, Beautiful Soup
 
   Parses Wall Street Journal RSS feeds into a regularly updated headline dataset, accessible via terminal, [web](https://mmednikov.com/wsj/), or Discord. I use it every day, and that's all that matters.
+
+### Contributions
+
+I hope to get more into open-source development and contributions, currently starting slow but all things start somewhere!
+
+- **[Baretab - A Minimal MacOS Switcher](https://github.com/marcusmalloc/alt-tab-macos-but-free)** · Swift, Claude
+
+  A small swift project made by a friend, added a few finishing touches to make QOL better for more users (me).
+    
