@@ -11,7 +11,7 @@ Second-year Quantitative Finance and Computer Science student at [Stevens Instit
   Researcher in Stevens' Financial Systems Lab. Currently working on SHIFT, a high frequency trading simulator that lets students and partner organizations backtest strategies against a live simulated exchange. I onboard new users, maintain the documentation, and build simulated markets with reinforcement learning agents. Internally, I'm leading the migration to Nasdaq ITCH/OUCH protocols so the simulator has an easier time handling an increased amount of agents.
 - **[Stevens Student Managed Investment Fund](https://www.stevens.edu/school-business/student-managed-investment-fund)** · Python, Web Dev
 
-  On the Development team. Building data intake, market models, and risk optimizers for Quantitative and Discretionary use.
+  Started this fall on the Development team. Building data intake, market models, and risk optimizers for Quantitative and Discretionary use.
 
 ### Side Projects
 
