@@ -29,7 +29,11 @@ Second-year Quantitative Finance and Computer Science student at [Stevens Instit
 
 I hope to get more into open-source development and contributions, currently starting slow but all things start somewhere!
 
-- **[Baretab - A Minimal MacOS Switcher](https://github.com/marcusmalloc/alt-tab-macos-but-free)** · Swift, Claude
+- **[Baretab - A Minimal MacOS Switcher](https://github.com/marcusmalloc/baretab)** · Swift, Claude
 
   A small swift project made by a friend, added a few finishing touches to make QOL better for more users (me).
+    
+- **[Drogon (1.4k Stars)](https://github.com/drogonframework/drogon)** · C++
+
+  A high-performance C++ web framework, published an undefined behavior fix brought up by a GitHub issue.
     
