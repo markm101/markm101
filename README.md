@@ -6,7 +6,15 @@ Second-year Quantitative Finance and Computer Science student at [Stevens Instit
 
 ### Current Work
 
-- **[Stevens SHIFT](https://fsc.stevens.edu/high-frequency-trading-simulation-system/)** · C++17, Python
+- **[ZKPigeon](https://zkpigeon.com)**
+
+  Providing liquidity to privacy markets and low latency RPC nodes for major networks.
+  
+- **[Stevens Student Managed Investment Fund](https://www.stevens.edu/school-business/student-managed-investment-fund)**
+
+  Started this fall on the Development team. Building data intake, market models, and risk optimizers for Quantitative and Discretionary use.
+
+- **[Stevens SHIFT](https://fsc.stevens.edu/high-frequency-trading-simulation-system/)**
 
   Researcher in Stevens' Financial Systems Lab. Currently working on SHIFT, a high frequency trading simulator that lets students and partner organizations backtest strategies against a live simulated exchange. I onboard new users, maintain the documentation, and build simulated markets with reinforcement learning agents. Internally, I'm leading the migration to Nasdaq ITCH/OUCH protocols so the simulator has an easier time handling an increased amount of agents.
 - **[Stevens Student Managed Investment Fund](https://www.stevens.edu/school-business/student-managed-investment-fund)** · Python, Web Dev
