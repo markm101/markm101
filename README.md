@@ -23,12 +23,21 @@ Second-year Quantitative Finance and Computer Science student at [Stevens Instit
 
 ### Side Projects
 
+- **Neural Network from Scratch** · C
+
+  A neural network written from scratch in C on top of a custom matrix library, with no external dependencies. The matrix library is done, and the goal is to benchmark the network on MNIST. (in progress)
+- **Bittensor Adversarial ML** · Python
+
+  Implemented σ-zero and EAD adversarial attacks on Bittensor Subnet 26 ([Perturb](https://perturbai.io/)) to make EfficientNet-B5 misclassify images while modifying as few pixels as possible, competing for a share of the subnet's token emissions.
+- **SIG Predictions Cup** · Python
+
+  Automated strategies for Susquehanna's [prediction market competition](https://predictionscup.com/), trading 2026 midterm election contracts on live order books through the competition API. Fair value came from a logistic regression of win probability on historical polling margins. Finished top 200 out of 1,000 entrants.
 - **[Kalshi Order Book Scraper](https://github.com/markm101/Kalshi-Orderbook-Scraper)** · Python, REST
 
-  My first exploration of agentic programming. Polls Kalshi's REST API to capture live order book snapshots on chosen or trending markets, building the historical depth data Kalshi doesn't publish. Useful for backtesting and studying how prediction markets move.
+  My first exploration of agentic programming. Polls Kalshi's REST API in batches of 100 markets to capture level 2 order book snapshots (up to 40 depth levels per side) on chosen or trending markets, building the historical depth data Kalshi doesn't publish. It also rebuilds full bid/ask books from Kalshi's bid-only data to measure spread and depth. Useful for backtesting and studying how prediction markets move.
 - **[Low Latency Execution Simulator](https://github.com/markm101/Low-Latency-Executor)** · C++
 
-  One of my first experiences with using low-level development in a finance environment. A trade execution simulator with a price-time priority matching engine that handles 736k orders/sec single-threaded, plus a multithreaded implementation for comparing throughput and contention.
+  One of my first experiences with using low-level development in a finance environment. A trade execution simulator that fills orders against market tape with a price-time priority matching engine, handling 736k orders/sec single-threaded and computing VWAP, slippage and fill quality. A multithreaded implementation processes orders up to 6x faster.
 - **[WSJ Data Aggregate](https://github.com/markm101/WSJ-Aggregator)** · Python, Beautiful Soup
 
   Parses Wall Street Journal RSS feeds into a regularly updated headline dataset, accessible via terminal, [web](https://mmednikov.com/wsj/), or Discord. I use it every day, and that's all that matters.
