@@ -31,7 +31,7 @@ Second-year Quantitative Finance and Computer Science student at [Stevens Instit
   Implemented σ-zero and EAD adversarial attacks on Bittensor Subnet 26 ([Perturb](https://perturbai.io/)) to make EfficientNet-B5 misclassify images while modifying as few pixels as possible, competing for a share of the subnet's token emissions.
 - **SIG Predictions Cup** · Python
 
-  Automated strategies for Susquehanna's [prediction market competition](https://predictionscup.com/), trading 2026 midterm election contracts on live order books through the competition API. Fair value came from a logistic regression of win probability on historical polling margins.
+  Automated strategies for Susquehanna's [prediction market competition](https://predictionscup.com/), trading 2026 midterm election contracts on live order books through the competition API. Fair value came from a logistic regression of win probability on historical polling margins and from prices on leading prediction markets.
 - **[Kalshi Order Book Scraper](https://github.com/markm101/Kalshi-Orderbook-Scraper)** · Python, REST
 
   My first exploration of agentic programming. Polls Kalshi's REST API in batches of 100 markets to capture level 2 order book snapshots (up to 40 depth levels per side) on chosen or trending markets, building the historical depth data Kalshi doesn't publish. It also rebuilds full bid/ask books from Kalshi's bid-only data to measure spread and depth. Useful for backtesting and studying how prediction markets move.
