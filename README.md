@@ -46,7 +46,7 @@ Second-year Quantitative Finance and Computer Science student at [Stevens Instit
 
 I hope to get more into open-source development and contributions, currently starting slow but all things start somewhere!
 
-- **[Agent Whipper](https://github.com/zkpigeon/agent-whipper)** · TypeScript, Docker
+- **[Agent Whipper](https://github.com/zkpigeon/sherpa)** · TypeScript, Docker
 
   Fork of ZkPigeon's internal node testing lab, made to support agent hill climbs locally for better design and throughput results. Sandboxed runners benchmark each commit against the best so far.
 
